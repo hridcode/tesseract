@@ -14772,7 +14772,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR"
 			(at 179.07 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -18856,7 +18856,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "footprints:PJ31060"
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_PJ31060-I_Horizontal"
 			(at 252.73 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -19377,7 +19377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR"
 			(at 232.41 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -20577,7 +20577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR"
 			(at 196.85 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -21272,7 +21272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_PTS125Sx43PSMTR"
 			(at 214.63 125.73 0)
 			(hide yes)
 			(show_name no)

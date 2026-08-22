@@ -19,3 +19,13 @@ I forgot the microSD card slot in the previous journal lmao
 Added that in, it's the 9 pin version which means there is a pin for card detection. There are 10KΩ pull-up resistors on the 4 SPI lines.
 
 ![Schematic design 2](/photos/journal-082226-02.png)
+
+Time spent: **1 hour**
+
+# August 22: Added footprints for symbols
+
+The footprints were added. This took no time at all, since most of them were already assigned as I copied it from a previous design.
+
+![Footprints](/photos/journal-082226-03.png)
+
+Time spent: **0.5 hours**

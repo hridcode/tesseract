@@ -12,3 +12,10 @@ The schematic has been completed. I repurposed an RP2354B devboard design that I
 ![Schematic design](/photos/journal-082226.png)
 
 Time spent: **1.5 hours**
+
+# August 22: Finished the schematic (again)
+
+I forgot the microSD card slot in the previous journal lmao
+Added that in, it's the 9 pin version which means there is a pin for card detection. There are 10KΩ pull-up resistors on the 4 SPI lines.
+
+![Schematic design 2](/photos/journal-082226-02.png)

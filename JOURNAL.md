@@ -65,3 +65,5 @@ The case is basically halfway done. The geometry for the bottom and top cases is
 I learned to use Onshape for this project, but it was quite similar to Fusion 360.
 
 ![Prototype case](/photos/journal-082726-01.png)
+
+Time spent: **3 hours**

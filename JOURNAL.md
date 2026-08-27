@@ -57,3 +57,11 @@ The SD card footprint was changed to fit one from LCSC.
 ![PCB routing finished](/photos/journal-082626-02.png)
 
 Time spent: **2 hours**
+
+# August 27: Modeled the case (Part 1)
+
+The case is basically halfway done. The geometry for the bottom and top cases is finished, as well as the mounting holes for the PCB to screw into, the display cutout, the wheel, and the magnet holes to connect the top and bottom cases. I really only need to add cutouts for ports and speaker grills, and anything else I see fit.
+
+I learned to use Onshape for this project, but it was quite similar to Fusion 360.
+
+![Prototype case](/photos/journal-082726-01.png)

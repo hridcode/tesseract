@@ -75,3 +75,20 @@ The case is done! The speaker grills, port cutouts, and button caps are modeled,
 ![Prototype case](/photos/journal-082826-01.png)
 
 Time spent: **1 hour**
+
+# August 28: Created firmware
+
+I created a very simple firmware in MicroPython for the device. This initializes the peripherals, reads a file "metadata.json" from the SD card, and plays the songs in order, displaying the covers, artists, and respective albums.
+
+![Firmware snippet](/photos/journal-082826-02.png)
+
+Time spent: **1.5 hours**
+
+# August 28: Added slide switch
+
+Since I realized I had no way to turn the device on/off, I added a right-angled slide switch. This required updating the schematic, PCB, and case.
+
+![Updated PCB](/photos/journal-082826-03-01.png)
+![Updated case](/photos/journal-082826-03-02.png)
+
+Time spent: **1 hour**

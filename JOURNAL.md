@@ -67,3 +67,11 @@ I learned to use Onshape for this project, but it was quite similar to Fusion 36
 ![Prototype case](/photos/journal-082726-01.png)
 
 Time spent: **3 hours**
+
+# August 27: Modeled the case (Part 2)
+
+The case is done! The speaker grills, port cutouts, and button caps are modeled, with 0.4-0.7mm tolerances. It looks kind of ugly, but oh well.
+
+![Prototype case](/photos/journal-082826-01.png)
+
+Time spent: **1 hour**

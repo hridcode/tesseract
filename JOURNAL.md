@@ -92,3 +92,9 @@ Since I realized I had no way to turn the device on/off, I added a right-angled 
 ![Updated case](/photos/journal-082826-03-02.png)
 
 Time spent: **1 hour**
+
+# August 29: Added BOM
+
+I added the BOM today and got the files ready for production. This took a long time since I had to match up every part and find its data.
+
+Time spent: **3 hours**

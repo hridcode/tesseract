@@ -19197,7 +19197,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "common_footprints:PJ31060"
+		(property "Footprint" "common_footprints:AUDIO-SMD_PJ-242_1"
 			(at 252.73 71.12 0)
 			(hide yes)
 			(show_name no)

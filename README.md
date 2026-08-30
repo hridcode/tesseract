@@ -1,10 +1,10 @@
 # Tesseract
 
-Tesseract is a retro-style MP3 player with audio output to speakers and headphones, an LCD display, and battery charging for on-the-go listening. 
+Tesseract is a retro-style MP3 player with audio output to speakers and headphones, an LCD display, and battery charging for on-the-go listening. I made this because I wanted to have a dedicated device to run a library of my favorite music in a simplistic way, as a sort of action against streaming services.
 
 ## Features
 
-- 16-bit 48kHz stereo output to speakers and headphones
+- 32-bit 48kHz stereo output to speakers and headphones
 - microSD card file loading (up to 32GB)
 - 2.0" LCD display (ST7789)
 - Battery charging with power path
@@ -56,12 +56,14 @@ Tesseract is a retro-style MP3 player with audio output to speakers and headphon
 |Diametric magnet|1|$0.199|[AliExpress](https://www.aliexpress.us/item/3256810578708839.html)|
 |2x1mm neodymium magnets|50|$3.220|[AliExpress](https://www.aliexpress.us/item/3256811645736463.html)|
 |12MHz 20pF crystal oscillator|1|$0.096|[LCSC](https://www.lcsc.com/product-detail/C9002.html)|
-|3-pin SPDT slide switch|1|$4.950|https://www.aliexpress.us/item/3256809632258636.html|
+|3-pin SPDT slide switch|1|$4.950|[AliExpress](https://www.aliexpress.us/item/3256809632258636.html)|
 |PCB|1|$1.400|[JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=65&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010)|
 |Resin printed parts|5|$8.640|[JLC3DP](https://jlc3dp.com/3d-printing-quote?queryMaterialTechnicsId=1)|
-|**Total**||$40.166||
+|**Total**||**$40.166**||
 
 ## Notes
+
+You can visit the Onshape project [here](https://cad.onshape.com/documents/0cda69ddcaf8f9abaf0bc503/w/b4a9e0f35602d26ad8b0afbe/e/33b76f34621fe33578d60277?renderMode=0&uiState=6a938bd5edeed672aad4ec0b).
 
 The PCB is 4 layers (SIG/GND/PWR/SIG).
 

@@ -97,4 +97,6 @@ Time spent: **1 hour**
 
 I added the BOM today and got the files ready for production. This took a long time since I had to match up every part and find its data.
 
+![BOM](/photos/journal-082926-01.png)
+
 Time spent: **3 hours**

@@ -1,0 +1,39 @@
+Part,Quantity,Cost,Link
+0402 4.7uF capacitor,3,$0.070,https://www.lcsc.com/product-detail/C23733.html
+0402 10uF capacitor,10,$0.258,https://www.lcsc.com/product-detail/C15525.html
+0603 22uF capacitor,3,$0.094,https://www.lcsc.com/product-detail/C59461.html
+0402 0.1uF capacitor,18,$0.099,https://www.lcsc.com/product-detail/C1525.html
+0402 2.2uF capacitor,4,$0.026,https://www.lcsc.com/product-detail/C12530.html
+0402 0.47uF capacitor,2,$0.028,https://www.lcsc.com/product-detail/C47339.html
+0402 20pF capacitor,2,$0.016,https://www.lcsc.com/product-detail/C1554.html
+0402 1uF capacitor,1,$0.012,https://www.lcsc.com/product-detail/C52923.html
+microSD card receptacle,1,$0.061,https://www.lcsc.com/product-detail/C7529389.html
+0402 3.3uH inductor,1,$0.076,https://www.lcsc.com/product-detail/C48946153.html
+0402 1uH inductor,1,$0.035,https://www.lcsc.com/product-detail/C22400378.html
+0402 5.1KΩ resistor,2,$0.005,https://www.lcsc.com/product-detail/C25905.html
+0402 470Ω resistor,2,$0.010,https://www.lcsc.com/product-detail/C25117.html
+0603 20KΩ resistor,2,$0.008,https://www.lcsc.com/product-detail/C4184.html
+0402 10Ω resistor,1,$0.003,https://www.lcsc.com/product-detail/C25077.html
+0402 10KΩ resistor,4,$0.019,https://www.lcsc.com/product-detail/C25531.html
+0603 27Ω resistor,2,$0.007,https://www.lcsc.com/product-detail/C25190.html
+0402 33Ω resistor,1,$0.008,https://www.lcsc.com/product-detail/C25105.html
+0402 1KΩ resistor,2,$0.008,https://www.lcsc.com/product-detail/C11702.html
+0603 2Ω resistor,2,$0.006,https://www.lcsc.com/product-detail/C22977.html
+USB-C receptacle,1,$0.172,https://www.lcsc.com/product-detail/C165948.html
+12-pin 0.5mm pitch FPC connector,1,$0.088,https://www.lcsc.com/product-detail/C51901313.html
+ST7789 12-pin display,1,$4.060,https://www.aliexpress.us/item/3256810577766519.html
+RP2354A,1,$1.318,https://www.lcsc.com/product-detail/C41378174.html
+PCM5102A,1,$1.416,https://www.lcsc.com/product-detail/C107671.html
+PAM8403D,1,$0.267,https://www.lcsc.com/product-detail/C5122557.html
+PJ-242 switching audio jack,1,$0.138,https://www.lcsc.com/product-detail/C431536.html
+8Ω 0.5W 20mm speaker,1,$2.690,https://www.aliexpress.us/item/3256809939513877.html
+IP5306,1,$0.299,https://www.lcsc.com/product-detail/C181692.html
+XC6206P332MR,1,$0.147,https://www.lcsc.com/product-detail/C5446.html
+3.7V 2000mAh lithium polymer battery,1,$6.990,https://www.aliexpress.us/item/3256802733222186.html
+AS5600-ASOT,1,$1.436,https://www.lcsc.com/product-detail/C499458.html
+Diametric magnet,1,$0.199,https://www.aliexpress.us/item/3256810578708839.html
+2x1mm neodymium magnets,50,$3.220,https://www.aliexpress.us/item/3256811645736463.html
+12MHz 20pF crystal oscillator,1,$0.096,https://www.lcsc.com/product-detail/C9002.html
+3-pin SPDT slide switch,1,$4.950,https://www.aliexpress.us/item/3256809632258636.html
+PCB,1,$1.400,https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=65&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
+Resin printed parts,5,$8.640,https://jlc3dp.com/3d-printing-quote?queryMaterialTechnicsId=1
